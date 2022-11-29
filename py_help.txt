@@ -1,0 +1,7 @@
+String, https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
+List, https://docs.python.org/3/library/stdtypes.html#list
+Tuple, https://docs.python.org/3/library/stdtypes.html#tuple
+Range, https://docs.python.org/3/library/stdtypes.html#range
+Set, https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset
+Dictionary, https://docs.python.org/3/library/stdtypes.html#mapping-types-dict
+Type Annotation, https://docs.python.org/3/library/stdtypes.html#type-annotation-types-generic-alias-union
